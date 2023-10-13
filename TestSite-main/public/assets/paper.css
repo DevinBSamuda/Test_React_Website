@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+
+.container {
+    position: relative
+}
+
+.btn {
+    position: absolute;
+    top: 10px;
+    z-Index: 2;
+}
+
+#c {
+    position: relative;
+    top: 0px;
+}
+
+#play_btn {
+    left: 10px;
+}
+
+#stop_btn {
+    left: 60px;
+}
+

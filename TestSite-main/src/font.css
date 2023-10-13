@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'PermaMarker';
+    /* Specify the font name */
+    src: url('../public/assets/PermanentMarker-Regular.ttf') format('truetype');
+    /* You can add other font formats (e.g., woff, woff2) if needed */
+    font-weight: normal;
+    font-style: normal;
+}
+
+.PermaMarker {
+    font-family: 'PermaMarker';
+    /* Use the same font name as defined in @font-face */
+}
+
+@font-face {
+    font-family: 'sketch';
+    src: url('../public/assets/sketch.otf');
+}
+
+.sketch {
+    font-family: 'sketch';
+}
+
